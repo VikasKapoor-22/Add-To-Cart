@@ -1,0 +1,88 @@
+const Product = [
+    {
+        id: 1,
+        img: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+        brand: "Apple",
+        model: "iPhone 15 Pro",
+        price: 129999,
+    },
+    {
+        id: 2,
+        img: "https://images.unsplash.com/photo-1546868871-7041f2a55e12",
+        brand: "Samsung",
+        model: "Galaxy S24 Ultra",
+        price: 124999,
+    },
+    {
+        id: 3,
+        img: "https://images.unsplash.com/photo-1541807084-5c52b6b3adef",
+        brand: "OnePlus",
+        model: "OnePlus 13",
+        price: 69999,
+    },
+    {
+        id: 4,
+        img: "https://images.unsplash.com/photo-1580910051074-3eb694886505",
+        brand: "Xiaomi",
+        model: "Redmi Note 14 Pro",
+        price: 29999,
+    },
+    {
+        id: 5,
+        img: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+        brand: "Dell",
+        model: "XPS 15",
+        price: 139999,
+    },
+    {
+        id: 6,
+        img: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+        brand: "Apple",
+        model: "MacBook Air M4",
+        price: 114999,
+    },
+    {
+        id: 7,
+        img: "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+        brand: "Apple",
+        model: "Apple Watch Series 10",
+        price: 49999,
+    },
+    {
+        id: 8,
+        img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+        brand: "Sony",
+        model: "WH-1000XM5",
+        price: 29999,
+    },
+    {
+        id: 9,
+        img: "https://images.unsplash.com/photo-1583394838336-acd977736f90",
+        brand: "HP",
+        model: "Pavilion 15",
+        price: 65999,
+    },
+    {
+        id: 10,
+        img: "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6",
+        brand: "Lenovo",
+        model: "Legion 5 Pro",
+        price: 119999,
+    },
+    {
+        id: 11,
+        img: "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46",
+        brand: "Asus",
+        model: "ROG Phone 9",
+        price: 89999,
+    },
+    {
+        id: 12,
+        img: "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb",
+        brand: "Nothing",
+        model: "Phone (3)",
+        price: 49999,
+    },
+];
+
+export default Product;
