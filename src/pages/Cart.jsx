@@ -30,9 +30,9 @@ const Cart = ({ cartAllproduct, setCartAllproduct }) => {
                     {cartAllproduct.map((Product) => {
                         return (
                             <div className=''>
-                                <div className='flex gap-10 border border-green-500  rounded-xl p-5'>
+                                <div className='flex gap-5 md:gap-10 flex-col md:flex-row border border-green-500  rounded-xl p-5'>
                                     <div className=''>
-                                        <img className='w-full max-w-40 min-w-40 h-40 object-cover rounded' src={Product.img} alt="productimg" />
+                                        <img className='w-full md:max-w-40 md:min-w-40 h-40 object-cover rounded' src={Product.img} alt="productimg" />
                                     </div>
                                     <div className=''>
                                         <div className='text-lg '>
